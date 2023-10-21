@@ -1,10 +1,8 @@
-[toc]
 
 
+文本挖掘第二次实验
 
-#文本挖掘第二次实验
-
-##1. 实验环境：
+## 1. 实验环境：
 
 1. torch≥1.2.0
 
@@ -70,7 +68,7 @@ https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releas
 
 我们还将每个问题分别的结果存放在了represent_result文件夹下分别以x.csv 等命名。
 
-##4.Demo
+## 4.Demo
 
 为了便于调用，我们在本次实验中完成了Demo部分，我们将视频存放在DEMO视频展示.mp4文件中。
 
